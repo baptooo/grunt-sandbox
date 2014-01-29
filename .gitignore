@@ -13,3 +13,10 @@ results
 
 npm-debug.log
 node_modules
+
+# Aptana
+.settings
+.project
+
+#Specific
+index.html.save
